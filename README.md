@@ -62,7 +62,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- make sure you have nodejs installed on your computer.
+- make sure you have Nodejs installed on your computer.
 
 ```sh
  PostgreSql
